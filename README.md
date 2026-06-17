@@ -4,7 +4,7 @@ A data analysis project exploring burnout patterns among developers
 using Stack Overflow Survey data, PostgreSQL, and Metabase.
 
 ## 📊 Dashboard Preview
-[Add screenshot of your Metabase dashboard here]
+![Alt Text](https://github.com/Nafis-Rohan/developer-burnout-analyzer/blob/7fdc1ef48dcb540796fb5086c35661c6eb6787ca/Screenshot%202026-06-17%20210012.png)
 
 ## 🛠️ Tools Used
 - **Python (Pandas, NumPy)** — data cleaning and preprocessing
@@ -74,6 +74,7 @@ burnout-analyzer/
 ├── sql/
 │   ├── create_view.sql
 │   └── analysis_queries.sql
+├── master_burnout_data.csv
 └── README.md
 
 ## 🗄️ SQL Files
