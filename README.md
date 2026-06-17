@@ -69,13 +69,17 @@ A composite burnout score was engineered from 5 signals:
 - Burnout steadily increases after 35+ years experience
 
 ## 📁 Project Structure
+
+```text
 burnout-analyzer/
-├── burnout.ipynb
 ├── sql/
 │   ├── create_view.sql
 │   └── analysis_queries.sql
+├── burnout.ipynb
 ├── master_burnout_data.csv
+├── dashboard.png
 └── README.md
+```
 
 ## 🗄️ SQL Files
 All queries are in the `/sql` folder including:
